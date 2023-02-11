@@ -1,0 +1,6 @@
+skladniki:
+- maka
+- woda
+- olej
+- drozdze
+- dodatki
